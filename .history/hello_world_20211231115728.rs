@@ -1,9 +1,3 @@
-// remember to save the file before running the program
-// $ rustc hello_world.rs
-// $ ./hello_world
-// for variable declaration, use underscore NOT hyphens. 
-// lack of semi colons results in errors. 
-
 fn main() {
     println!("Hello, World!");
     let mut x = 1;
